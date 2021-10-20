@@ -1,6 +1,4 @@
-<p align="center">
 ![doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=dark&show_icons=true)
-</p>
 <br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak)
 <!--
