@@ -1,5 +1,5 @@
 
-![doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=swift&show_icons=true)
+![doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=graywhite&show_icons=true)
 
 ## Languages and Tools:
 <p align="center">
