@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doguilmak-A&hide=stars&theme=github_dark" alt="https://github.com/doguilmak/github-readme-stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=doguilmak-A&hide=stars&theme=onedark" alt="https://github.com/doguilmak/github-readme-stats" align="center"/>
 
 </div>
 ## Languages and Tools:
