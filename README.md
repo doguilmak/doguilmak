@@ -2,8 +2,9 @@
 <!-- [doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true) -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=graywhite&show_icons=true" align="center"/>
 </div>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/>
