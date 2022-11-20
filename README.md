@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default) 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default" align="center"/>
 </div>
 
 <div align="center">
