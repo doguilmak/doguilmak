@@ -6,6 +6,10 @@
 </div>
 
 <div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default) 
+</div>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/>
 </div>
 
