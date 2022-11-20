@@ -6,11 +6,23 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default" align="center"/>
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doguilmak&theme=default" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doguilmak&theme=default" align="center"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguilmak&theme=default" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doguilmak&theme=default&utcOffset=8" align="center"/>
+</div>
+
 <br>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true" align="center"/>
 </div>
+-->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/>
