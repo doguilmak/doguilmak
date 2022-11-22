@@ -6,10 +6,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default" align="center"/>
 </div>
 
+<!--
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doguilmak&theme=default" align="center"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doguilmak&theme=default" align="center"/>
 </div>
+-->
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguilmak&theme=default" align="center"/>
