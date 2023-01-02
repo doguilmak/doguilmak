@@ -32,7 +32,7 @@
 <!-- Profile Views Bar -->
 <div align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/> -->
-  <img src="https://komarev.com/ghpvc/?username=doguilmak&color=lightgrey" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=doguilmak&color=586e75" align="center"/>
 </div>
 
 <h2>Languages and Tools:</h2>
