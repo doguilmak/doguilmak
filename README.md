@@ -1,11 +1,19 @@
 
 <!-- [doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true) -->
 
+<!-- Black-Blue Stat Bar -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true" align="center"/>
+</div>
+-->
 
+<!-- doguilmak (Dogu Ilmak) -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default" align="center"/>
 </div>
 
+<!-- Most Used Languages Bar -->
 <!--
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doguilmak&theme=default" align="center"/>
@@ -13,6 +21,7 @@
 </div>
 -->
 
+<!-- Stats and Commits Bar -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguilmak&theme=default" align="center"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doguilmak&theme=default&utcOffset=1" align="center"/>
@@ -20,17 +29,13 @@
 
 <br>
 
-<!--
+<!-- Profile Views Bar -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true" align="center"/>
-</div>
--->
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/>
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/> -->
+  <img src="https://komarev.com/ghpvc/?username=doguilmak&color=lightgrey" align="center"/>
 </div>
 
-## Languages and Tools:
+<h2>Languages and Tools:</h2>
 <p align="center">
   
   <a href="https://www.python.org" target="_blank">
