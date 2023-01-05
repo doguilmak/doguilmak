@@ -102,32 +102,32 @@
 <details>
 	<summary>More...</summary>	
 	
-	<div align="center">
-		<a href="https://www.credly.com/badges/c0b90f0c-2646-4ade-8394-64b1601b315b/public_url" target="_blank">
-			<img src="./assets/ibm-ai-engineering-professional-certificate-v2.png" style="vertical-align:top; margin:4px">
-		</a>
-		
-		<a href="https://www.credly.com/badges/a9c92f60-4af6-4fd0-9e98-a678eaaed9dd/public_url" target="_blank">
-			<img src="./assets/deep-learning-with-tensorflow" style="vertical-align:top; margin:4px">
-		</a>
-		
-		<a href="https://www.credly.com/badges/8ce2636e-a52b-43a4-a96a-0c535d8b3f7a/public_url" target="_blank">
-			<img src="./assets/machine-learning-with-python" style="vertical-align:top; margin:4px">
-		</a>
-		
-		<a href="https://www.credly.com/badges/ddd2753e-0c34-4905-9cf1-113b5d3cc741/public_url" target="_blank">
-			<img src="./assets/deep-learning-essentials-with-keras.png" style="vertical-align:top; margin:4px">
-		</a>
-		
-		<a href="https://www.credly.com/badges/94e2e283-c881-45e2-ab27-8dd142529a41/public_url" target="_blank">
-			<img src="./assets/computer-vision-and-image-processing-essentials.1.png" style="vertical-align:top; margin:4px">
-		</a>
-		
-		<a href="https://www.credly.com/badges/10e52086-fb23-40c7-bc00-a2fc64c1624c/public_url" target="_blank">
-			<img src="./assets/deep-neural-networks-with-pytorch.png" style="vertical-align:top; margin:4px">
-		</a>		
-		
-	</div>
+<div align="center">
+	<a href="https://www.credly.com/badges/c0b90f0c-2646-4ade-8394-64b1601b315b/public_url" target="_blank">
+		<img src="./assets/ibm-ai-engineering-professional-certificate-v2.png" style="vertical-align:top; margin:4px">
+	</a>
+
+	<a href="https://www.credly.com/badges/a9c92f60-4af6-4fd0-9e98-a678eaaed9dd/public_url" target="_blank">
+		<img src="./assets/deep-learning-with-tensorflow" style="vertical-align:top; margin:4px">
+	</a>
+
+	<a href="https://www.credly.com/badges/8ce2636e-a52b-43a4-a96a-0c535d8b3f7a/public_url" target="_blank">
+		<img src="./assets/machine-learning-with-python" style="vertical-align:top; margin:4px">
+	</a>
+
+	<a href="https://www.credly.com/badges/ddd2753e-0c34-4905-9cf1-113b5d3cc741/public_url" target="_blank">
+		<img src="./assets/deep-learning-essentials-with-keras.png" style="vertical-align:top; margin:4px">
+	</a>
+
+	<a href="https://www.credly.com/badges/94e2e283-c881-45e2-ab27-8dd142529a41/public_url" target="_blank">
+		<img src="./assets/computer-vision-and-image-processing-essentials.1.png" style="vertical-align:top; margin:4px">
+	</a>
+
+	<a href="https://www.credly.com/badges/10e52086-fb23-40c7-bc00-a2fc64c1624c/public_url" target="_blank">
+		<img src="./assets/deep-neural-networks-with-pytorch.png" style="vertical-align:top; margin:4px">
+	</a>		
+
+</div>
 
 </details>
 
