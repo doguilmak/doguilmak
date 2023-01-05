@@ -108,11 +108,11 @@
 	</a>
 
 	<a href="https://www.credly.com/badges/a9c92f60-4af6-4fd0-9e98-a678eaaed9dd/public_url" target="_blank">
-		<img src="./assets/deep-learning-with-tensorflow" style="vertical-align:top; margin:4px">
+		<img src="./assets/deep-learning-with-tensorflow.png" style="vertical-align:top; margin:4px">
 	</a>
 
 	<a href="https://www.credly.com/badges/8ce2636e-a52b-43a4-a96a-0c535d8b3f7a/public_url" target="_blank">
-		<img src="./assets/machine-learning-with-python" style="vertical-align:top; margin:4px">
+		<img src="./assets/machine-learning-with-python.png" style="vertical-align:top; margin:4px">
 	</a>
 
 	<a href="https://www.credly.com/badges/ddd2753e-0c34-4905-9cf1-113b5d3cc741/public_url" target="_blank">
