@@ -54,7 +54,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="vertical-align:top; margin:4px"/>
   </a>
 
-   <a href="https://nodejs.org" target="_blank">
+   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
   </a>
   
