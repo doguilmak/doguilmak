@@ -24,7 +24,7 @@
 <!-- Stats and Commits Bar -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguilmak&theme=default" align="center"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doguilmak&theme=default&utcOffset=1" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doguilmak&theme=default&utcOffset=3" align="center"/>
 </div>
 
 <br>
