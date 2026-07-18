@@ -1,4 +1,5 @@
 
+
 <!-- [doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true) -->
 
 <!-- Black-Blue Stat Bar -->
@@ -29,15 +30,25 @@
 
 <br>
 
-<!-- Profile Views Bar -->
+<!-- Profile Views & Socials -->
 <div align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=doguilmak&color=586e75" align="center"/> -->
   <img src="https://komarev.com/ghpvc/?username=doguilmak&color=586e75&style=for-the-badge" align="center"/>
+  <a href="https://www.linkedin.com/in/do%C4%9Fu-ilmak-6a493a377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-586e75?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
+  <a href="https://huggingface.co/doguilmak" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-586e75?style=for-the-badge&logo=huggingface&logoColor=white" align="center"/></a>
+  <a href="https://www.researchgate.net/profile/Dogu-Ilmak" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-586e75?style=for-the-badge&logo=researchgate&logoColor=white" align="center"/></a>
+  <a href="mailto:doguilmak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-586e75?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
 </div>
 
+<br>
+
+<!-- Languages and Tools -->
 <h2>Languages and Tools:</h2>
 <p align="center">
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40" style="vertical-align:top; margin:4px">
+  </a>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" style="vertical-align:top; margin:4px">
