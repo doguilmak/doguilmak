@@ -1,28 +1,7 @@
-
-
-<!-- [doguilmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true) -->
-
-<!-- Black-Blue Stat Bar -->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doguilmak&theme=github_dark&show_icons=true" align="center"/>
-</div>
--->
-
-<!-- doguilmak (Dogu Ilmak) -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doguilmak&theme=default" align="center"/>
 </div>
 
-<!-- Most Used Languages Bar -->
-<!--
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doguilmak&theme=default" align="center"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doguilmak&theme=default" align="center"/>
-</div>
--->
-
-<!-- Stats and Commits Bar -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguilmak&theme=default" align="center"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doguilmak&theme=default&utcOffset=3" align="center"/>
@@ -30,10 +9,7 @@
 
 <br>
 
-<!-- Profile Views & Socials -->
 <div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak" align="center"/> -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=doguilmak&color=586e75" align="center"/> -->
   <img src="https://komarev.com/ghpvc/?username=doguilmak&color=586e75&style=for-the-badge" align="center"/>
   <a href="https://www.linkedin.com/in/do%C4%9Fu-ilmak-6a493a377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-586e75?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
   <a href="https://huggingface.co/doguilmak" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-586e75?style=for-the-badge&logo=huggingface&logoColor=white" align="center"/></a>
@@ -43,7 +19,6 @@
 
 <br>
 
-<!-- Languages and Tools -->
 <h2>Languages and Tools:</h2>
 <p align="center">
   <a href="https://colab.research.google.com/" target="_blank">
@@ -119,9 +94,31 @@
    </a>
 </p>
 
-<!-- More... Section -->
 <details>
-	<summary>More...</summary>	
+  <summary>More...</summary>	
+  <br>
+
+<div align="left">
+<h3>Publications</h3>
+
+<h4>Journal Articles</h4>
+<ul>
+  <li>Sertel E., İlmak D., Aksoy S. & Ustaoğlu B. (2026). Machine learning-based LULC mapping with AlphaEarth foundation embeddings and Sentinel-2 multitemporal features: a comparative study focusing on hazelnut (Corylus avellana L.) orchards. <i>International Journal of Digital Earth</i>. <a href="https://doi.org/10.1080/17538947.2026.2732311" target="_blank">DOI: 10.1080/17538947.2026.2732311</a></li>
+  <li>Ilmak D., Bakirman T. & Sertel E. (2025). Exploring YOLOv8 and YOLOv9 for Efficient Airplane Detection in VHR Remote Sensing Imagery. <i>Engineering Applications of Artificial Intelligence</i>. <a href="https://doi.org/10.1016/j.engappai.2025.111854" target="_blank">DOI: 10.1016/j.engappai.2025.111854</a></li>
+</ul>
+
+<h4>Conference Papers</h4>
+<ul>
+  <li>İban M., Bayrak O.C., Kartal S., Ilmak D. & Şeker D. (2025). PalmCity: An Emerging Benchmark Dataset for Semantic Segmentation of Panoramic Street View Images in Under-Represented Developing Countries. <i>ICCSA 2025 Workshops, pp. 165-175</i>. <a href="https://doi.org/10.1007/978-3-031-97663-6_14" target="_blank">DOI: 10.1007/978-3-031-97663-6_14</a></li>
+  <li>İlmak D., İban M.C. & Şeker D.Z. (2024). A Geospatial Dataframe of Collapsed Buildings in Antakya City after the 2023 Kahramanmaraş Earthquakes Using YOLO and VHR Satellite Images. <i>IGARSS 2024, Athens (IEEE), pp. 3915-3919</i>. <a href="https://doi.org/10.1109/IGARSS53475.2024.10642920" target="_blank">DOI: 10.1109/IGARSS53475.2024.10642920</a></li>
+  <li>Ilmak D., İban M.C. & Şeker D.Z. (2024). Deep Learning-Based Scene Classification of VHR Satellite Imagery for Post-Earthquake Damage Assessment. <i>ISPRS Archives XLVIII-4-W9-2024, pp. 249-256</i>. <a href="https://doi.org/10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024" target="_blank">DOI: 10.5194/isprs-archives-XLVIII-4-W9-2024-249-2024</a></li>
+  <li>Ilmak D., Uyar S. & Iban M.C. (2024). Classification of Sentinel-2 Images with AI Algorithms and Explainability Using SHAP. [3rd Place Oral Presentation Award]. <i>IX. UZAL-CBS Symposium 2024</i></li>
+  <li>Adak O., Acı Ç.I. & İlmak D. (2024). Comparative Classification Performance Evaluation of ML and DL Techniques for BreakHis, Wisconsin, and DDSM Breast Cancer Datasets. <i>ICENSTED 2024</i></li>
+</ul>
+</div>
+
+<br>
+
 <div align="center">
 <a href="https://www.credly.com/badges/c0b90f0c-2646-4ade-8394-64b1601b315b/public_url" target="_blank">
 	<img src="./assets/ibm-ai-engineering-professional-certificate-v2.png" style="vertical-align:top; margin:4px">
@@ -149,9 +146,6 @@
 
 </div>
 </details>
-
-
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=doguilmak.doguilmak)-->
 
 <!--
 **doguilmak/doguilmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
