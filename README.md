@@ -119,6 +119,7 @@
 
 <br>
 
+<h3>Badges</h3>
 <div align="center">
 <a href="https://www.credly.com/badges/c0b90f0c-2646-4ade-8394-64b1601b315b/public_url" target="_blank">
 	<img src="./assets/ibm-ai-engineering-professional-certificate-v2.png" style="vertical-align:top; margin:4px">
